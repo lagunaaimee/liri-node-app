@@ -38,7 +38,7 @@ function movieSearch(title) {
     // var input = process.argv[3]; //take first word into the movie name 
     if (!title) {
         // if movie search is empty then set movieName to "mr nobody"
-        var movieName = "Mr. Nobody";
+        var movieName = "Wayne's World";
     } else {
         var movieName = title;
     }
