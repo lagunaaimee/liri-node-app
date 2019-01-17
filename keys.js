@@ -7,4 +7,5 @@ var spotifyKeys = {
 module.exports = {
   "spotifyKeys": spotifyKeys
 };
-//module.exports.spotifyKeys = spotifyKeys;
+
+module.exports.spotifyKeys = spotifyKeys;

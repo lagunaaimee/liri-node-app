@@ -1,0 +1,49 @@
+
+spotify-this-song
+Artist(s): Backstreet Boys
+Album: The Hits--Chapter One
+Song: I Want It That Way
+Url: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+---------------------
+spotify-this-song
+Album: Pronounced' Leh-'Nerd 'Skin-'Nerd
+Url: https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs
+Song: Simple Man
+Artist(s): Lynyrd Skynyrd
+---------------------
+spotify-this-song
+Album: Exodus
+Artist(s): Bob Marley & The Wailers
+Url: https://open.spotify.com/album/5EoLQ6g8jZiZkMXvi66u9Y
+Song: Three Little Birds
+---------------------
+movie-this
+---------------------
+Title: Wayne's World
+Year: 1992
+imdb Rating:: 7.0
+Rotten Tomato Rating: 84%
+Country: USA
+Language: English, Cantonese
+Plot: Two slacker friends try to promote their public-access cable show.
+Actors: Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere
+movie-this
+---------------------
+Title: Step Brothers
+Year: 2008
+imdb Rating:: 6.9
+Rotten Tomato Rating: 55%
+Country: USA
+Language: English, Spanish
+Plot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.
+Actors: Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins
+movie-this
+Title: Man on Fire
+Year: 2004
+imdb Rating:: 7.7
+Rotten Tomato Rating: 39%
+Country: USA, UK, Mexico
+Language: English, Spanish
+Plot: In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect.
+Actors: Denzel Washington, Dakota Fanning, Radha Mitchell, Christopher Walken
+---------------------

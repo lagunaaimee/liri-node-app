@@ -30,6 +30,7 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 
 command: node liri.js do-what-it-says
 
-    *It runs spotify-this-song for "I Want it That Way," as follows the text in random.txt.
-Liri also keep log of the output in log.txt.
+    *It runs spotify-this-song for multiple songs, and movie-this for multiple movies as it follows the text in random.txt.
+    
+Liri also keeps log of the output in log.txt.
 

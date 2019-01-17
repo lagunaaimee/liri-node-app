@@ -1,5 +1,6 @@
 var fs = require('fs');
-var request = require('request')
+var request = require('request');
+var keys = require('./keys');
 
 
 //Spotify

@@ -1,1 +1,8 @@
-spotify-this-song, "I Want it That Way"
+spotify-this-song "I Want it That Way"
+spotify-this-song "Simple Man"
+spotify-this-song "Jaded"
+spotify-this-song "Three Little Birds"
+
+movie-this "Wayne's World"
+movie-this "Step Brothers"
+movie-this "Man On Fire"
